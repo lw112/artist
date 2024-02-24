@@ -11,5 +11,6 @@ subtly influence the mood and direction of my art.
 <!-- ![Profile](https://raw.githubusercontent.com/lw112/artist/main/files/laura-paintings-291.jpg "Laura Weihl") -->
 
 
-
-<img src="https://raw.githubusercontent.com/lw112/artist/main/files/laura-paintings-291.jpg" alt="Artist Profile" width="300">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/lw112/artist/main/files/laura-paintings-291.jpg" alt="Artist Profile" width="300">
+</div>
