@@ -1,7 +1,10 @@
 # Laura Weihl
 
-## Artist Statement
+## About Me
+I am an artist based in Copenhagen, Denmark. I'm currently pursuing a PhD in Generative AI. 
 
+
+## Artist Statement
 In my artistic practice, I engage with the canvas as a space of
 meditative exploration, where each painting is a dialogue between 
 color and texture. The titles of my works, inspired by the music
