@@ -8,4 +8,4 @@ color and texture. The titles of my works, inspired by the music
 that flows around me as I paint, are like companions that 
 subtly influence the mood and direction of my art.
 
-![Profile]([/files/laura-paintings-291.jpg](https://github.com/lw112/artist/raw/main/files/laura-paintings-291.jpg)https://github.com/lw112/artist/raw/main/files/laura-paintings-291.jpg "Laura Weihl")
+![Profile](https://github.com/lw112/artist/raw/main/files/laura-paintings-291.jpg "Laura Weihl")
